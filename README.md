@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Manikanta Bandla
-- 👀 I’m interested in learning and building Machine Learning models for social cause problems.
-- I'm also passionate about problem solving.
-- 🌱 I’m pursuing my M.Tech in Computer Science and Automation Department from the Indian Institute of Science, Bangalore.
+- 🌱 I completed  M.Tech in Computer Science and Automation Department from the Indian Institute of Science, Bangalore.
+- I'm currently working as a Machine Learning Engineer at Qualcomm.
 - I solve problems on DSA in Leetcode platform, check out here -- https://leetcode.com/mani_312/
 - I've also contributed almost 60+ articles in Geeksforgeeks portal, majorly problems on DSA, 
   check articles here -- https://auth.geeksforgeeks.org/user/manikantabandla/articles

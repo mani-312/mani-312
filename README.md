@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Manikanta Bandla
 - 🌱 I completed  M.Tech in Computer Science and Automation Department from the Indian Institute of Science, Bangalore.
-- I'm currently working as a Machine Learning Engineer at Qualcomm.
+- I'm currently working as a Data Scientist at Meesho.
 - I solve problems on DSA in Leetcode platform, check out here -- https://leetcode.com/mani_312/
 - I've also contributed almost 60+ articles in Geeksforgeeks portal, majorly problems on DSA, 
   check articles here -- https://auth.geeksforgeeks.org/user/manikantabandla/articles
